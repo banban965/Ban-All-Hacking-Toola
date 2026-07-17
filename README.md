@@ -30,10 +30,10 @@
 
 ---
 
-git clone https://github.com/banban965/Ban-All-Hacking-Toola.git
+>> git clone https://github.com/banban965/Ban-All-Hacking-Toola.git
 
-cd Ban-All-Hacking-Toola
+>> cd Ban-All-Hacking-Toola
 
-python Ban.py
+>> python Ban.py
 
 ---
