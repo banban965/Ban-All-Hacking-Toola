@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="assets/banner.gif" width="800">
+</p>
+
+
 # 💻 HACKING TOOLS
 
 <p align="center">
