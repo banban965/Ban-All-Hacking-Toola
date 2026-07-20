@@ -30,15 +30,15 @@
 
 ---
 
->> - pkg install python
+>> 1- pkg install python
 
->> - pkg install git
+>> 2- pkg install git
 
->> - git clone https://github.com/banban965/Ban-All-Hacking-Toola.git
+>> 3- git clone https://github.com/banban965/Ban-All-Hacking-Toola.git
 
->> - cd Ban-All-Hacking-Toola
+>> 4- cd Ban-All-Hacking-Toola
 
->> - python Ban.py
+>> 5- python Ban.py
 
 ---
 > - need 1GB Free 
