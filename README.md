@@ -32,6 +32,10 @@
 
 >> - git clone https://github.com/banban965/Ban-All-Hacking-Toola.git
 
+>> - pkg install python
+
+>> - pkg install git
+
 >> - cd Ban-All-Hacking-Toola
 
 >> - python Ban.py
