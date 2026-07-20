@@ -37,5 +37,5 @@
 >> - python Ban.py
 
 ---
->*need 500MB Free 
+>-need 500MB Free 
 
