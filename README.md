@@ -41,5 +41,5 @@
 >> - python Ban.py
 
 ---
->-need 1GB Free 
+> - need 1GB Free 
 
